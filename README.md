@@ -1,3 +1,5 @@
+# CrownGarden - golf resort project
+
 A collaborative project of a luxury golf resort as a school assignment. I developed the 'Restaurant' page and my teammates did other sections:
 
 Youssef: Contact Us page
